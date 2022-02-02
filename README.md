@@ -7,6 +7,6 @@ A simple nodejs base api without any framework.
 * controller
   - handles requests
 * service
-  - business logic
+  - handles business logic
 * model
   - data
