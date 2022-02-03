@@ -3,14 +3,15 @@
   "version": "1.0.0",
   "description": "node js api",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imran517/node-js-api.git"
   },
   "keywords": [
     "node",
     "js",
     "api"
   ],
-  "author": "imran",
-  "license": "ISC"
+  "author": "Imran",
+  "license": "MIT"
 }
