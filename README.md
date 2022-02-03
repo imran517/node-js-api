@@ -50,4 +50,7 @@ Try the following urls in Postman.
     * Body - > raw and JSON
     * { "name" : "john" }
 
+*  Invalid request
+  
+  * http://127.0.0.1:3000/something
     
