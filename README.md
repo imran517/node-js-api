@@ -5,7 +5,7 @@ A simple nodejs base api without any framework.
 ## Requirements
 
 * Node.js
-* Postman (optional for tsting api)
+* Postman (optional for testing api)
 
 ## Components
 
