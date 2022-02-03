@@ -1,6 +1,6 @@
 # node-js-api
 
-A simple nodejs base api without any framework.
+A simple nodejs api without any framework.
 
 ## Requirements
 
